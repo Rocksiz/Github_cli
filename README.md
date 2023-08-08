@@ -63,5 +63,5 @@ We welcome contributions! If you find a bug or have a feature request, please op
 This project is licensed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-Remember to replace `[repository-link]` with the actual link to your repository. Adjust any other sections as necessary to match your requirements or specifics of the project.
+Bash Scrippt will be uploaded soon.
+Made with ❤️ by Rocksiz
